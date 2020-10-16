@@ -1,0 +1,24 @@
+html {
+    background-image: url(./images/1489398127_6016_poly-lakeside.jpg)
+}
+
+body {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    border: 1px solid blue;
+    padding-top: 78px;
+    background-color:  rgba(78, 71, 107, 0.946);
+}
+img {
+    width: 80%;
+    padding-top: 30px;
+}
+
+.ertek {
+    border: 1px solid orange;
+    width: 50%;
+    margin: auto;
+    background-color: white;
+}
